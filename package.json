@@ -1,0 +1,24 @@
+{
+  "name": "facebook_status_box_nodejs_mysql",
+  "version": "1.0.0",
+  "description": "Facebook status box with nodejs and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PradeepDevK/facebook_status_box_nodejs_mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PradeepDevK/facebook_status_box_nodejs_mysql/issues"
+  },
+  "homepage": "https://github.com/PradeepDevK/facebook_status_box_nodejs_mysql#readme",
+  "dependencies": {
+    "express": "~4.0.0",
+    "mysql": "*",
+    "ejs": "~1.0.0"
+  }
+}
