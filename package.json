@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/PradeepDevK/facebook_status_box_nodejs_mysql#readme",
   "dependencies": {
-    "express": "~4.0.0",
+    "express": "~4.17.3",
     "mysql": "*",
     "ejs": "~1.0.0"
   }
